@@ -39,4 +39,4 @@ Este repositório contém o arquivo fonte do jogo.
 
 ---
 
-### 👨‍💻 Desenvolvido por Vitor
+#### 👨‍💻 Desenvolvido por vitimbro
